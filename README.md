@@ -1,7 +1,7 @@
 - 👋 Hi, Siddharth Kaithwas this side.
 - 👀 Apart from coding, I’m interested in astronomy, dance, martial arts and cricket.
-- 🌱 I’m currently learning data science at Edyoda Digital University.
-- 💞️ I’m looking to collaborate with someone with whom I can learn industry relevant skills
+- 🌱 I’m learned data science at Edyoda Digital University.
+- 💞️ I’m currently working in Data Science Domain specializing in market mix modeling.
 - 📫 How to reach me? Contact me at siddharthkaithwas1996@gmail.com
 
 <!---
